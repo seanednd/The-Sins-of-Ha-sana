@@ -18,7 +18,7 @@
 ## 9/27 session 7
 - Melora turned into a snake after we escaped the hallway of suck
 - Health potion, glowing sword,flower staff,guide to protestics, ring mail ADAMANTIUM ARMOR, wand, sheild, ring, spell scroll of mage armor, potion of climbing, pair of magic claws, pair of goggles, belt.
-- Dammir puts on goggles that let him see/talks to a giant six legged ghost dragon, asks us to free his son's soul	
+- Dammir puts on goggles that let him see/talks to a giant six legged ghost dragon, asks us to free his son's soul
 - Dammir tells us he sees dead things, goggles let him see in the etheral plane. 
 - Necktiss talks before us.
 - Melora talks to the giant snakes to let us pass
@@ -36,7 +36,7 @@
 	- wasn't in on the job
 - went to the sleeping dragon inn
 	- rodger is the  barkeep
-- Wants to design my homunlous servant designed around the arcane firearm i found and use it as it's heart. Want to design and come up with variants that can 			utalize the weapon
+- Wants to design my homunlous servant designed around the arcane firearm i found and use it as it's heart. Want to design and come up with variants that can utalize the weapon
 - Tradge fought at a fighter's pit and won 50 gold
 - Vram failed his robbery of the mayor's mansion and is being blackmailed
 - Researched my humonculus servant that will have the ray of frost ability when it's summoned
@@ -55,7 +55,7 @@
 	- weakened
 - Polar bear's name is frank before he became a lycanthrope
 	- along with Wesma, Anita, Martian = all dead werebears
-- Kirino says Melina and her group is probably part of 'The Rook LC'- a massive 	adventuing guild that hired people to kill monsters
+- Kirino says Melina and her group is probably part of 'The Rook LC'- a massive adventuing guild that hired people to kill monsters
 - Polar bear Lycanthropes originated from a man named Martin, group called the moon circle
 - Liam's crossing has an obession with justice, melina is a holy warrior of Aniktear*'
 	- liam's goldmine funds The Rook
@@ -105,17 +105,17 @@
 - Criminal contact gnoll - Sticky
 - 1,200 gold reward from Melora
 - Looking for a magical sword on a train
-- Train is going to mottorom	
+- Train is going to mottorom
 - Met dutch and aurther, rivialing theive band
-- Met woman with grey skin dressed in a black that had the magical sword headdress 	with white eyes that attacked us immeditatly
+- Met woman with grey skin dressed in a black that had the magical sword headdress with white eyes that attacked us immeditatly
 	- a fallen Asamar
 	- head was hollow after investigation
-	- the gun that she used is a new invention that uses cantrips  to fire guns, surprising that she would have one, suggests a connection to wealthy and 			high status individuals 
+	- the gun that she used is a new invention that uses cantrips  to fire guns, surprising that she would have one, suggests a connection to wealthy and high status individuals 
 - Melora's Sword's named Necktiss, 
 	- last word was "Ginici" when it saw the moonlight sword that we found
-- Moonlight sword has elven design, has astrological planar depictions designed on 	the sword that are very old.
+- Moonlight sword has elven design, has astrological planar depictions designed on the sword that are very old.
 	- Not made any time recently or for anyone, no evidence belonging
-- Beatiful elf with golden gleaming armor with the image of a man blindfolded 	kills the polar bear in the cave 
+- Beatiful elf with golden gleaming armor with the image of a man blindfolded kills the polar bear in the cave 
 	- Melina, human paladin. 
 	- Morgan, Tabaxi sorccerer
 	- Tonya, halfling artifcer, deaf
