@@ -27,22 +27,6 @@
 - Ended on a room with buttons and missing statues
 
 
-
-## 9/13/ session 5
-- group of kobolds with great swords looking at a corpse of a polar boar
-	- lead by the kobold Kirino
-- large metal dragon construct with the kobolds moving around strapped with supplies
-	- weakened
-- Polar bear's name is frank before he became a lycanthrope
-	- along with Wesma, Anita, Martian = all dead werebears
-- Kirino says Melina and her group is probably part of 'The Rook LC'- a massive 	adventuing guild that hired people to kill monsters
-- Polar bear Lycanthropes originated from a man named Martin, group called the moon circle
-- Liam's crossing has an obession with justice, melina is a holy warrior of Aniktear*'
-	- liam's goldmine funds The Rook
-- had 50 gold stolen from me almost got into fight with the kobolds over it
-- attacked by golbin beserkers at night
-- captured one of the goblins using my rope
-
 ## /20 session 6
 - took 96 gold from the goblin, Tradge didn't take any.
 - goblin's name is jizzalex
@@ -62,6 +46,23 @@
 - Found a hidden basement in the reliquary
 - Dungeon under the reliquary is of primodial origins, religious descriptions of long dead gods, unfamiliar lion god.
 - Ended with the sucking door
+
+
+## 9/13/ session 5
+- group of kobolds with great swords looking at a corpse of a polar boar
+	- lead by the kobold Kirino
+- large metal dragon construct with the kobolds moving around strapped with supplies
+	- weakened
+- Polar bear's name is frank before he became a lycanthrope
+	- along with Wesma, Anita, Martian = all dead werebears
+- Kirino says Melina and her group is probably part of 'The Rook LC'- a massive 	adventuing guild that hired people to kill monsters
+- Polar bear Lycanthropes originated from a man named Martin, group called the moon circle
+- Liam's crossing has an obession with justice, melina is a holy warrior of Aniktear*'
+	- liam's goldmine funds The Rook
+- had 50 gold stolen from me almost got into fight with the kobolds over it
+- attacked by golbin beserkers at night
+- captured one of the goblins using my rope
+
 
 ## 9/6/ session 4
 	**Missed first half of the session**
