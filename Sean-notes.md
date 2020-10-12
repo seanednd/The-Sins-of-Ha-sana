@@ -3,6 +3,8 @@
 - Dragonborn grandma that works
 - Albino half Orc proffesor running the reliquary
 
+***
+
 ## 10/3 session 8
 - Tomb bound in flesh found in the catacomb math puzzle.
 - Manual of Flesh Golems Wondrous Item, very rare
@@ -14,6 +16,7 @@
 - Ruby dragon's name is Kiko
 - Kiko doesn't remember being in his construct
 
+***
 
 ## 9/27 session 7
 - Melora turned into a snake after we escaped the hallway of suck
@@ -26,6 +29,7 @@
 - "If the gods still inhabit the afterlife, they will have to beg for my forgiveness." Found by dead elf
 - Ended on a room with buttons and missing statues
 
+***
 
 ## 20 session 6
 - took 96 gold from the goblin, Tradge didn't take any.
@@ -47,6 +51,7 @@
 - Dungeon under the reliquary is of primodial origins, religious descriptions of long dead gods, unfamiliar lion god.
 - Ended with the sucking door
 
+***
 
 ## 9/13/ session 5
 - group of kobolds with great swords looking at a corpse of a polar boar
@@ -83,6 +88,8 @@
 - Tuft of fur in a tree that was scorched.
 - Dammir became extremely paranoid/crazy for a brief moment, unable to say why he was.
 
+***
+
 ## session 3
 ### 8/27
 - Erin, Young woman with red dark skin, straight black hair.
@@ -96,12 +103,16 @@
 	- Bear claw marks
 - Igredients for potions that let you calm other people's emotions and shapeshift
 
+***
+
 ## 8/16/ session 2
 - Party met in the cave was very suspeicous when we questioned them futher, attempt to follow them, they wern't heading north.
 - Found Tradge inside a tree, robbed and beaten up by minotaurs
 	- a warrior fighting in the bowl
 - Discovered the two minotaurs and killed them
 - Tristian gave out 100 gold to everyone, 200 to Mary
+  
+***
   
 ## 8/16/ session 1
 - Criminal contact gnoll - Sticky
