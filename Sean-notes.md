@@ -27,7 +27,7 @@
 - Ended on a room with buttons and missing statues
 
 
-## /20 session 6
+## 20 session 6
 - took 96 gold from the goblin, Tradge didn't take any.
 - goblin's name is jizzalex
 - grave appears to be recently digged up
@@ -63,6 +63,7 @@
 - attacked by golbin beserkers at night
 - captured one of the goblins using my rope
 
+***
 
 ## 9/6/ session 4
 	**Missed first half of the session**
@@ -82,7 +83,8 @@
 - Tuft of fur in a tree that was scorched.
 - Dammir became extremely paranoid/crazy for a brief moment, unable to say why he was.
 
-## 8/27/ session 3
+## session 3
+### 8/27
 - Erin, Young woman with red dark skin, straight black hair.
 - Mary the innkeeper asks us about polar bears.
 - The party we met in the cave was in this Inn for only a few hours.
