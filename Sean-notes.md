@@ -4,7 +4,11 @@
 - Dragonborn grandma that works
 - Albino half Orc proffesor running the reliquary
 - Kiko would like to have books on language.
-- 
+- Melora learns some infernal
+- Malve haggles for a magic item
+- Created prototype version of Slippers of spider climbing
+- Tradge befriended an obnoxious and obsessed stranger
+- Vram finds out whomever is blackmailing him, his letters are comming from the mayor's house.	
 
 ***
 
