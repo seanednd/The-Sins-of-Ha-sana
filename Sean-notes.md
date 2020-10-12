@@ -3,6 +3,8 @@
 - Billy the butcher monk that works in the butchery
 - Dragonborn grandma that works
 - Albino half Orc proffesor running the reliquary
+- Kiko would like to have books on language.
+- 
 
 ***
 
@@ -28,7 +30,6 @@
 - Dammir tells us he sees dead things, goggles let him see in the etheral plane. 
 - Necktiss talks before us.
 - Melora talks to the giant snakes to let us pass
-- RED YELLOW BLUE GREEN - CENTER
 - "If the gods still inhabit the afterlife, they will have to beg for my forgiveness." Found by dead elf
 - Ended on a room with buttons and missing statues
 
