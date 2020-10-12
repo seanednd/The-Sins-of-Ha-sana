@@ -18,6 +18,19 @@
 - Downtown liam's crossing has the year in Rook's review
 	- Melina and her group is there
 		- They're promoted to Knights of the Rook for killing Martin
+- Rook ranks
+	- Qualified
+	- Trusted
+	- Wisened
+	- Learned
+	- Empowered
+	- Knights of the Rook
+	- Prefect of the Rook
+	- Guardian of the Good Peoples
+	- Messenger to the Farthest Places
+	- Diplomat to the Farthest Places
+	- Champion of the Farthest Places
+	- Vizier
 ***
 
 ## session 8
