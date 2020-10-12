@@ -34,8 +34,8 @@
 	- Vizier
 ***
 
-## session 8
-*10/3*
+## session 8 *10/3*
+
 - Tomb bound in flesh found in the catacomb math puzzle.
 - Manual of Flesh Golems Wondrous Item, very rare
 	- This tome contains information and incantations necessary to make a flesh golem. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a manual of golems and attempts to read it takes 6d6 psychic damageTo create a flesh golem, you must spend 60 days, working without interruption with the manual at hand and resting no more than 8 hours per day. You must also pay 50,000 gp to purchase supplies.Once you finish creating the golem, the book is consumed in eldritch flames. The golem becomes animate when the ashes of the manual are sprinkled on it. It is under your control, and it understands and obeys your spoken commands
@@ -48,8 +48,8 @@
 
 ***
 
-## session 7
-*9/27*
+## session 7 *9/27*
+
 - Melora turned into a snake after we escaped the hallway of suck
 - Health potion, glowing sword,flower staff,guide to protestics, ring mail ADAMANTIUM ARMOR, wand, sheild, ring, spell scroll of mage armor, potion of climbing, pair of magic claws, pair of goggles, belt.
 - Dammir puts on goggles that let him see/talks to a giant six legged ghost dragon, asks us to free his son's soul
@@ -61,8 +61,8 @@
 
 ***
 
-## session 6
-*9/20*
+## session 6 *9/20*
+
 - took 96 gold from the goblin, Tradge didn't take any.
 - goblin's name is jizzalex
 - grave appears to be recently digged up
@@ -84,8 +84,8 @@
 
 ***
 
-## session 5
-*9/13*
+## session 5 *9/13*
+
 - group of kobolds with great swords looking at a corpse of a polar boar
 	- lead by the kobold Kirino
 - large metal dragon construct with the kobolds moving around strapped with supplies
@@ -102,8 +102,8 @@
 
 ***
 
-## session 4
-*9/6*
+## session 4 *9/6*
+
 	**Missed first half of the session**
 - Erin and Mary have a long histroy together. Both daughters of adventureres that were friends and then married.
 - Erin is emotionally stunted from Mary not being interested in her in return.
@@ -123,8 +123,8 @@
 
 ***
 
-## session 3
-*8/27*
+## session 3 *8/27*
+
 - Erin, Young woman with red dark skin, straight black hair.
 - Mary the innkeeper asks us about polar bears.
 - The party we met in the cave was in this Inn for only a few hours.
@@ -138,8 +138,8 @@
 
 ***
 
-## session 2
-*8/23*
+## session 2 *8/23*
+
 - Party met in the cave was very suspeicous when we questioned them futher, attempt to follow them, they wern't heading north.
 - Found Tradge inside a tree, robbed and beaten up by minotaurs
 	- a warrior fighting in the bowl
@@ -148,8 +148,8 @@
   
 ***
   
-## session 1
-*8/16*
+## session 1 *8/16*
+
 - Criminal contact gnoll - Sticky
 - 1,200 gold reward from Melora
 - Looking for a magical sword on a train
