@@ -1,6 +1,6 @@
 
-## session 9
-*10/11*
+## session 9 *10/11*
+
 - Billy the butcher monk that works in the butchery
 - Dragonborn grandma that works
 - Albino half Orc proffesor running the reliquary
