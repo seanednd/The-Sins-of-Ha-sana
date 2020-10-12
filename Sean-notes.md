@@ -4,12 +4,20 @@
 - Dragonborn grandma that works
 - Albino half Orc proffesor running the reliquary
 - Kiko would like to have books on language.
+- Things done durring down time
 	- Melora learns some infernal
 	- Malve haggles for a magic item
 	- Nithax created a prototype version of Slippers of spider climbing
 	- Tradge befriended an obnoxious and obsessed stranger
 	- Vram finds out whomever is blackmailing him, his letters are comming from the mayor's house.	
-
+- Wake up to everyone wearing different tall hats
+	- End of the year celebration
+	- Wearing white and green
+	- Everyone is goosestepping while walking
+	- Everyone eating donuts
+- Downtown liam's crossing has the year in Rook's review
+	- Melina and her group is there
+		- They're promoted to Knights of the Rook for killing Martin
 ***
 
 ## session 8
