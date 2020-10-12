@@ -31,7 +31,7 @@
 
 ***
 
-## 20 session 6
+## 9/20 session 6
 - took 96 gold from the goblin, Tradge didn't take any.
 - goblin's name is jizzalex
 - grave appears to be recently digged up
@@ -53,7 +53,7 @@
 
 ***
 
-## 9/13/ session 5
+## 9/13 session 5
 - group of kobolds with great swords looking at a corpse of a polar boar
 	- lead by the kobold Kirino
 - large metal dragon construct with the kobolds moving around strapped with supplies
@@ -70,7 +70,7 @@
 
 ***
 
-## 9/6/ session 4
+## 9/6 session 4
 	**Missed first half of the session**
 - Erin and Mary have a long histroy together. Both daughters of adventureres that were friends and then married.
 - Erin is emotionally stunted from Mary not being interested in her in return.
@@ -105,7 +105,7 @@
 
 ***
 
-## 8/16/ session 2
+## 8/16 session 2
 - Party met in the cave was very suspeicous when we questioned them futher, attempt to follow them, they wern't heading north.
 - Found Tradge inside a tree, robbed and beaten up by minotaurs
 	- a warrior fighting in the bowl
@@ -114,7 +114,7 @@
   
 ***
   
-## 8/16/ session 1
+## 8/16 session 1
 - Criminal contact gnoll - Sticky
 - 1,200 gold reward from Melora
 - Looking for a magical sword on a train
