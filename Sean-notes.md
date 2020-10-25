@@ -2,13 +2,15 @@
 
 
 ---
+
 Took a week off 
+
 ---
 
 ## session 9 _10/11_
 
 - Billy the butcher monk that works in the butchery
-- Dragonborn grandma that works
+- Dragonborn grandma that works... in the butchery as well? 
 - Albino half Orc professor running the reliquary
 - Kiko would like to have books on language.
 - Things done during down time
@@ -17,7 +19,7 @@ Took a week off
   - Nithax created a prototype version of Slippers of spider climbing
   - Tradge befriended an obnoxious and obsessed stranger
   - Vram finds out whomever is blackmailing him, his letters are coming from the mayor's house.
-- Wake up to everyone wearing different tall hats
+- Wake up to everyone in town wearing different tall hats
   - End of the year celebration
   - Wearing white and green
   - Everyone is goose-stepping while walking
