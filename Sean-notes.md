@@ -1,6 +1,7 @@
 ## session 10 _10/25_
 
 
+
 ---
 
 ### Took a week off 
@@ -22,6 +23,7 @@
 - Wake up to everyone in town wearing different tall hats
   - End of the year celebration
   - Wearing white and green
+  - Everyone wearing silly hats
   - Everyone is goose-stepping while walking
   - Everyone eating donuts
 - Downtown Liam's crossing has the year in Rook's review
