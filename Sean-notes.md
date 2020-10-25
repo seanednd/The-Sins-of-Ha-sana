@@ -3,7 +3,11 @@
 
 ---
 
+<<<<<<< HEAD
 ### Took a week off 
+=======
+## Took a week off 
+>>>>>>> 1cc2b70e059dba1cb96b0450a38dfc7d39d99fd1
 
 ---
 
