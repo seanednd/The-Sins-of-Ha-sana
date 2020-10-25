@@ -1,3 +1,10 @@
+## session 10 _10/25_
+
+
+---
+Took a week off 
+---
+
 ## session 9 _10/11_
 
 - Billy the butcher monk that works in the butchery
