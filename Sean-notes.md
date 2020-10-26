@@ -1,18 +1,31 @@
 ## session 10 _10/25_
 
-
+- Liam the 16th, the mayor, visits and invites us to the end of the year celebration, Liam's Day.
+- Liam's crossing founded almost 200 years ago.
+- Kiko asks to go, decide to use Vram's belt to shrink him down and come with us.
+- Seung thinks a money laundering scheme was going on with the Rook and Kirino
+  - Shared rumor of the goldmine drying up
+  - She wants to visit the mines, that are off limit
+- Liam explains some of the tradition of Liam's Day.
+  - The Journey of the first Liam guiding people
+- Screaming, rabid female goblin named Mika interrupts the festival speaking in a unknown language.
+  - Running from the rook.
+  - Says something to a tiefling that makes the teifling's eyes go wide.
+  - The goblin is taken away by force, the tiefling goes with the guards
+  - "I need help, they've been keeping me below the Rook (when she begins to foam, she says) HASANA IS COMING AND WE MUST MAKE OUR GREAT PREPARATIONS"
 
 ---
 
-### Took a week off 
+### Took a week off
 
 ---
 
 ## session 9 _10/11_
 
-- Billy the butcher monk that works in the butchery
-- Dragonborn grandma that works... in the butchery as well? 
-- Albino half Orc professor running the reliquary
+- Kyris, Elderly tiefling teaching Melora Infernal
+- Billy Willhelm the butcher monk that works in the butchery
+- Soldrembrod, Dragonborn grandma that works in the butchery
+- Oogrom wolftusk, Albino half Orc professor running the reliquary
 - Kiko would like to have books on language.
 - Things done during down time
   - Melora learns some infernal
@@ -74,7 +87,7 @@
 ## session 6 _9/20_
 
 - took 96 gold from the goblin, Tradge didn't take any.
-- goblin's name is jizzalex
+- goblin's name is Jizzalex.
 - grave appears to be recently dug up
 - grave keeper, old white kobold with blue eyes
   - says that Kirino's group stole it a month ago
@@ -85,7 +98,7 @@
 - Tradge fought at a fighter's pit and won 50 gold
 - Vram failed his robbery of the mayor's mansion and is being blackmailed
 - Researched my homunculus servant that will have the ray of frost ability when it's summoned
-- Seung contacted Vram incognito, part of the thieves guild
+- Seung, grave digger's child, contacted Vram incognito, part of the thieves guild
   - Lives near the graveyard
 - Kirion's men spotted in an abandoned butchery and reliquary in the west end of Liam's crossing
 - Found a hidden basement in the reliquary
