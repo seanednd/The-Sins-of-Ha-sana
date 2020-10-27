@@ -2,12 +2,13 @@
 
 - Liam the 16th, the mayor, visits and invites us to the end of the year celebration, Liam's Day.
 - Liam's crossing founded almost 200 years ago.
-- Kiko asks to go, decide to use Vram's belt to shrink him down and come with us.
+- Kiko asks to go with us to Liam's Day, decide to use Vram's belt to shrink him down to come with us.
 - Seung thinks a money laundering scheme was going on with the Rook and Kirino
   - Shared rumor of the goldmine drying up
   - She wants to visit the mines, that are off limit
 - Liam explains some of the tradition of Liam's Day.
   - The Journey of the first Liam guiding people
+- We all lose the silly walk contest
 - Screaming, rabid female goblin named Mika interrupts the festival speaking in Infernal.
   - Running from the rook.
   - Says something to a tiefling that makes the teifling's eyes go wide.
