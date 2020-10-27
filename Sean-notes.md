@@ -8,7 +8,7 @@
   - She wants to visit the mines, that are off limit
 - Liam explains some of the tradition of Liam's Day.
   - The Journey of the first Liam guiding people
-- Screaming, rabid female goblin named Mika interrupts the festival speaking in a unknown language.
+- Screaming, rabid female goblin named Mika interrupts the festival speaking in Infernal.
   - Running from the rook.
   - Says something to a tiefling that makes the teifling's eyes go wide.
   - The goblin is taken away by force, the tiefling goes with the guards
