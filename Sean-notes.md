@@ -1,3 +1,6 @@
+## session 11 _11/1_
+- 
+
 ## session 10 _10/25_
 
 - Liam the 16th, the mayor, visits and invites us to the end of the year celebration, Liam's Day.
@@ -9,11 +12,11 @@
 - Liam explains some of the tradition of Liam's Day.
   - The Journey of the first Liam guiding people
 - We all lose the silly walk contest
-- Screaming, rabid female goblin named Mika interrupts the festival speaking in Infernal.
+- Screaming, rabid female goblin named Mika'Chu interrupts the festival speaking in Infernal.
   - Running from the rook.
   - Says something to a tiefling that makes the teifling's eyes go wide.
   - The goblin is taken away by force, the tiefling goes with the guards
-  - "I need help, they've been keeping me below the Rook (when she begins to foam, she says) HASANA IS COMING AND WE MUST MAKE OUR GREAT PREPARATIONS"
+  - _"I need help, they've been keeping me below the Rook (when she begins to foam, she says) HASANA IS COMING AND WE MUST MAKE OUR GREAT PREPARATIONS"_
 
 ---
 
