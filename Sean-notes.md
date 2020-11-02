@@ -1,5 +1,25 @@
 ## session 11 _11/1_
-- 
+- Letter recieved: _"Nithaz receives a letter from Alesia. The letter is dated for about a month ago, Nithaz being on the move makes him hard to deliver to. Alesia wishes him well and apologizes for not communicating more frequently, as she has been busy in Aradon. She informs him of a growing populist movement causing friction between Aradonian natives and the expats who live and work there as well. Alesia wishes Nithaz a happy holiday and inquires about his current living	 situation, implying that if the situation gets any more violent she might be looking to move away from Aradon."_
+	- Response : _"Sorry this letter has reached me so late, between my...employer's various mishaps and the intresting people we've encountered I've been quite busy."_
+- Two people in suits come to speak on Liam's behalf to 'talk' to us about the taxes owed for the butchery and reliquary.
+- Melora attempts to persuade liam's men to go down to a 5% rate, he's laughed at by them (and most of the people in the discord)
+- Tradge agrees to the 25% cut.
+	- He names the butchery Meat Central
+- Melora runs after them and agrees to the 25% tax rate.
+- Vram asks them how to get an audience with Liam, they tell him to go to his secretary downtown but that he may be turned down.
+	- Would take 11 days to set up a meeting
+- Dammir meets the gravekeeper owner
+	- Asks where Seung is, she hasn't been around or made any contact with her.
+	- Liam gold mine is a few hours away.
+- Kiko unsure how old they are
+- "Top of fence  has a white blue magical energy a distance above the fence itself, RECOGNIZE IT AS THE ALARM SPELL.
+- "portion of fence yeah "
+- "Magical shimmering deep into the forest."
+- We all use varms belt to get past the gate
+- Major illussion surrounding the area making the area look like something else
+	- When peering into the illusion, dead trees and lots of people shouting, the smell of sulfur 
+- Smelting refineries, oridinary humanoids commanding fiends to turn raw stone into gold coins
+- Fiends bound to the commands of people that hold golden rods.
 
 ## session 10 _10/25_
 
