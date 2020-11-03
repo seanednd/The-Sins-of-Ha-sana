@@ -1,6 +1,6 @@
 ## session 11 _11/1_
 
-- Letter recieved: _"Nithaz receives a letter from Alesia. The letter is dated for about a month ago, Nithaz being on the move makes him hard to deliver to. Alesia wishes him well and apologizes for not communicating more frequently, as she has been busy in Aradon. She informs him of a growing populist movement causing friction between Aradonian natives and the expats who live and work there as well. Alesia wishes Nithaz a happy holiday and inquires about his current living situation, implying that if the situation gets any more violent she might be looking to move away from Aradon."_
+- Letter recieved: ```_"Nithaz receives a letter from Alesia. The letter is dated for about a month ago, Nithaz being on the move makes him hard to deliver to. Alesia wishes him well and apologizes for not communicating more frequently, as she has been busy in Aradon. She informs him of a growing populist movement causing friction between Aradonian natives and the expats who live and work there as well. Alesia wishes Nithaz a happy holiday and inquires about his current living situation, implying that if the situation gets any more violent she might be looking to move away from Aradon."_```
   - Response : _""_
 - Two people in suits come to speak on Liam's behalf to 'talk' to us about the taxes owed for the butchery and reliquary.
 - Melora attempts to persuade Liam's men to go down to a 5% rate, he's laughed at by them (and most of the people in the discord)
@@ -11,11 +11,11 @@
   - Would take 11 days to set up a meeting
 - Dammir meets the grave keeper owner
   - Grave keeper Asks where Seung is, she hasn't been around or made any contact with her.
+  - Dammir lies and says we don't know
   - Liam gold mine is a few hours away.
 - Kiko unsure how old they are
-- "Top of fence has a white blue magical energy a distance above the fence itself, RECOGNIZE IT AS THE ALARM SPELL.
-- "portion of fence yeah "
-- "Magical shimmering deep into the forest."
+- Fence has an alarm spell radius above it
+- Magical shimmering deep into the forest.
 - We all use Vram's belt to get past the gate
 - Major illusion surrounding the area making the area look like a regular forest
   - When peering into the illusion, dead trees and lots of people shouting, the smell of sulfur in the air.
@@ -24,6 +24,7 @@
   - Fiends appear to be bound to the commands of people that hold golden rods.
   - Dozens of keepers
   - Near 50-60 common demons/fiends, 20 sorcerer demons, 30-40 brutish demons.
+- See Seung escaping
 - Rescued Seung triggering alarms in the process 
 	- Has an infection from another plane, that looks like growing mold.
 		- Something growing inside of her
