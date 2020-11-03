@@ -1,26 +1,34 @@
 ## session 11 _11/1_
-- Letter recieved: _"Nithaz receives a letter from Alesia. The letter is dated for about a month ago, Nithaz being on the move makes him hard to deliver to. Alesia wishes him well and apologizes for not communicating more frequently, as she has been busy in Aradon. She informs him of a growing populist movement causing friction between Aradonian natives and the expats who live and work there as well. Alesia wishes Nithaz a happy holiday and inquires about his current living	 situation, implying that if the situation gets any more violent she might be looking to move away from Aradon."_
-	- Response : _"Sorry this letter has reached me so late, between my...employer's various mishaps and the intresting people we've encountered I've been quite busy."_
+
+- Letter recieved: _"Nithaz receives a letter from Alesia. The letter is dated for about a month ago, Nithaz being on the move makes him hard to deliver to. Alesia wishes him well and apologizes for not communicating more frequently, as she has been busy in Aradon. She informs him of a growing populist movement causing friction between Aradonian natives and the expats who live and work there as well. Alesia wishes Nithaz a happy holiday and inquires about his current living situation, implying that if the situation gets any more violent she might be looking to move away from Aradon."_
+  - Response : _""_
 - Two people in suits come to speak on Liam's behalf to 'talk' to us about the taxes owed for the butchery and reliquary.
-- Melora attempts to persuade liam's men to go down to a 5% rate, he's laughed at by them (and most of the people in the discord)
+- Melora attempts to persuade Liam's men to go down to a 5% rate, he's laughed at by them (and most of the people in the discord)
 - Tradge agrees to the 25% cut.
-	- He names the butchery Meat Central
+  - He names the butchery Meat Central
 - Melora runs after them and agrees to the 25% tax rate.
-- Vram asks them how to get an audience with Liam, they tell him to go to his secretary downtown but that he may be turned down.
-	- Would take 11 days to set up a meeting
-- Dammir meets the gravekeeper owner
-	- Asks where Seung is, she hasn't been around or made any contact with her.
-	- Liam gold mine is a few hours away.
+- Vram asks them how to have an audience with Liam, they tell him to go to his secretary downtown but that he may be turned down.
+  - Would take 11 days to set up a meeting
+- Dammir meets the grave keeper owner
+  - Grave keeper Asks where Seung is, she hasn't been around or made any contact with her.
+  - Liam gold mine is a few hours away.
 - Kiko unsure how old they are
-- "Top of fence  has a white blue magical energy a distance above the fence itself, RECOGNIZE IT AS THE ALARM SPELL.
+- "Top of fence has a white blue magical energy a distance above the fence itself, RECOGNIZE IT AS THE ALARM SPELL.
 - "portion of fence yeah "
 - "Magical shimmering deep into the forest."
-- We all use varms belt to get past the gate
-- Major illussion surrounding the area making the area look like something else
-	- When peering into the illusion, dead trees and lots of people shouting, the smell of sulfur 
-- Smelting refineries, oridinary humanoids commanding fiends to turn raw stone into gold coins
-- Fiends bound to the commands of people that hold golden rods.
-
+- We all use Vram's belt to get past the gate
+- Major illusion surrounding the area making the area look like a regular forest
+  - When peering into the illusion, dead trees and lots of people shouting, the smell of sulfur in the air.
+- Venturing deeper reveals smelting refineries, ordinary humanoids commanding demons/fiends to turn raw stone into gold coins.
+  - Members of the church present.
+  - Fiends appear to be bound to the commands of people that hold golden rods.
+  - Dozens of keepers
+  - Near 50-60 common demons/fiends, 20 sorcerer demons, 30-40 brutish demons.
+- Rescued Seung triggering alarms in the process 
+	- Has an infection from another plane, that looks like growing mold.
+		- Something growing inside of her
+		- Face becomes narrow, scales become fur
+		- Solid black, long thin arms/legs.
 ## session 10 _10/25_
 
 - Liam the 16th, the mayor, visits and invites us to the end of the year celebration, Liam's Day.
@@ -49,7 +57,7 @@
 - Kyris, Elderly tiefling teaching Melora Infernal
 - Billy Willhelm the butcher monk that works in the butchery
 - Soldrembrod, Dragonborn grandma that works in the butchery
-- Oogrom wolftusk, Albino half Orc professor running the reliquary
+- Oogrom Wolftusk, Albino half Orc professor running the reliquary
 - Kiko would like to have books on language.
 - Things done during down time
   - Melora learns some infernal
