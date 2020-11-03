@@ -1,6 +1,6 @@
 ## session 11 _11/1_
 
-- Letter recieved: ```_"Nithaz receives a letter from Alesia. The letter is dated for about a month ago, Nithaz being on the move makes him hard to deliver to. Alesia wishes him well and apologizes for not communicating more frequently, as she has been busy in Aradon. She informs him of a growing populist movement causing friction between Aradonian natives and the expats who live and work there as well. Alesia wishes Nithaz a happy holiday and inquires about his current living situation, implying that if the situation gets any more violent she might be looking to move away from Aradon."_```
+- Letter recieved: _"Nithaz receives a letter from Alesia. The letter is dated for about a month ago, Nithaz being on the move makes him hard to deliver to. Alesia wishes him well and apologizes for not communicating more frequently, as she has been busy in Aradon. She informs him of a growing populist movement causing friction between Aradonian natives and the expats who live and work there as well. Alesia wishes Nithaz a happy holiday and inquires about his current living situation, implying that if the situation gets any more violent she might be looking to move away from Aradon."_
   - Response : _""_
 - Two people in suits come to speak on Liam's behalf to 'talk' to us about the taxes owed for the butchery and reliquary.
 - Melora attempts to persuade Liam's men to go down to a 5% rate, he's laughed at by them (and most of the people in the discord)
