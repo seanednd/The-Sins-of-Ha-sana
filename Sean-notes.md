@@ -1,3 +1,28 @@
+## session 12 _11/18_
+- Demon speaks infernal with Nithaz
+	- 7 feet tall
+	- Speaks Infernal
+	- Doesn't know his own name, we come up with Hydrox
+	- Demon asks to find her love
+	 	- Named Beatrix
+		- Demon sorceress
+		- https://cdn.discordapp.com/attachments/731525935924248647/775157994400514049/Beatrice.png
+	- Tells us that freeing all of the demons to the nine hells would be easiest and would allow us to take the gold
+	- Keeping all of the demons in the camp is alluring an angel from the plane of justice/law & order
+		- Hydrox tells use the the angels name is Ha'sana 
+	- Tells us that the Witch of The Wood would be the one to remove him from Seung
+		- Is an extra-planar being
+- Hydrox has no idea who put the demon in Seung
+- Hydrox can communicate through the planes through dream like communications
+- Described Ginici's sword contains the spirit of a fallen paladin 
+- Demons in the camp are being bound to humans the same way he's bound to Seung
+- The camp is always working
+- As we sleep our dreams are visited by Beatrix
+	- We see Beatrix at her workstation in the camp
+- I ask kiko to research Ha'sana 
+
+
+
 ## session 11 _11/1_
 
 - Letter recieved: _"Nithaz receives a letter from Alesia. The letter is dated for about a month ago, Nithaz being on the move makes him hard to deliver to. Alesia wishes him well and apologizes for not communicating more frequently, as she has been busy in Aradon. She informs him of a growing populist movement causing friction between Aradonian natives and the expats who live and work there as well. Alesia wishes Nithaz a happy holiday and inquires about his current living situation, implying that if the situation gets any more violent she might be looking to move away from Aradon."_
@@ -99,9 +124,9 @@
 - Kirino mentions something about a great power below us
 - Kirino kills himself fighting us off
 - The dragon in the construct escaped and tells us he doesn't have parents
-- Ruby dragon's name is Kiko
+- Dragon's name is Kiko, A topaz dragon with six legs and no wings
 - Kiko doesn't remember being in his construct
-
+- https://cdn.discordapp.com/attachments/731525935924248647/775174007657725962/unknown.png
 ---
 
 ## session 7 _9/27_
