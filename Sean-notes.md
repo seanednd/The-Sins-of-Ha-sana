@@ -1,3 +1,10 @@
+
+
+### mini session _11/11_
+- Nithaz creates their homunculus servant, a mechanical owl with that uses the pistol found in the first session as it's heart.
+	- Attempting to command the owl left no responses, when touched by Tradge became hostile towards the both of us
+	- Fixed by turning a focus crystal rightsized up.
+
 ## session 12 _11/18_
 - Demon speaks infernal with Nithaz
 	- 7 feet tall
