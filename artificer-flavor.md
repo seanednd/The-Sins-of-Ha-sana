@@ -4,38 +4,38 @@
 ### Cantrips 
 - Acid Splash	Conjuration	1 Action	60 Feet	Instantaneous	V, S
 	- Vial of acid that bubbles when uncorked
-Create Bonfire	Conjuration	1 Action	60 Feet	Concentration up to 1 minute	V, S
+- Create Bonfire	Conjuration	1 Action	60 Feet	Concentration up to 1 minute	V, S
 	- 
-Dancing Lights	Evocation	1 Action	120 Feet	Concentration up to 1 minute	V, S, M
-Fire Bolt	Evocation	1 Action	120 Feet	Instantaneous	V, S
+- Dancing Lights	Evocation	1 Action	120 Feet	Concentration up to 1 minute	V, S, M
+- Fire Bolt	Evocation	1 Action	120 Feet	Instantaneous	V, S
 	- A small metal container with a rope that shoots a firebolt when pulled
-Frostbite	Evocation	1 Action	60 Feet	Instantaneous	V, S
+-Frostbite	Evocation	1 Action	60 Feet	Instantaneous	V, S
 	- 
-Guidance	Divination	1 Action	Touch	Concentration up to 1 minute	V, S
-Light	Evocation	1 Action	Touch	1 hour	V, M
+- Guidance	Divination	1 Action	Touch	Concentration up to 1 minute	V, S
+- Light	Evocation	1 Action	Touch	1 hour	V, M
 	- Crack a clear vial with moss inside of it to make it glow 
-Mage Hand	Conjuration	1 Action	30 Feet	1 minute	V, S
+- Mage Hand	Conjuration	1 Action	30 Feet	1 minute	V, S
 	- A mechanical hand with a propeller on it
-Magic Stone	Transmutation	1 Bonus Action	Touch	1 minute	V, S
+- Magic Stone	Transmutation	1 Bonus Action	Touch	1 minute	V, S
 	- Superheat the pebbles with blow torch
-Mending	Transmutation	1 Action	Touch	Instantaneous	V, S, M
+- Mending	Transmutation	1 Action	Touch	Instantaneous	V, S, M
 	- Bust out the ol' tools
-Message	Transmutation	1 Action	120 feet	1 round	V, S, M
+- Message	Transmutation	1 Action	120 feet	1 round	V, S, M
 	-
-Poison Spray	Conjuration	1 Action	10 feet	Instantaneous	V, S
+- Poison Spray	Conjuration	1 Action	10 feet	Instantaneous	V, S
 	- A gas grenade
-Prestidigitation	Transmutation	1 Action	10 feet	Up to 1 hour	V, S
+- Prestidigitation	Transmutation	1 Action	10 feet	Up to 1 hour	V, S
 	- Ugh
-Ray of Frost	Evocation	1 Action	60 feet	Instantaneous	V, S
+- Ray of Frost	Evocation	1 Action	60 feet	Instantaneous	V, S
 	- Eat a small mint and blow towards your target
-Resistance	Abjuration	1 Action	Touch	Concentration up to 1 minute	V, S, M
+- Resistance	Abjuration	1 Action	Touch	Concentration up to 1 minute	V, S, M
 	- A small sensor that alerts it's user of danger with simple beeping/vibrating.
-Shocking Grasp	Evocation	1 Action	Touch	Instantaneous	V, S
-Spare the Dying	Necromancy	1 Action	Touch	Instantaneous	V, S
+- Shocking Grasp	Evocation	1 Action	Touch	Instantaneous	V, S
+- Spare the Dying	Necromancy	1 Action	Touch	Instantaneous	V, S
 	- Electromagnetic gloves that can be dialed to different strengths
-Thorn Whip	Transmutation	1 Action	30 feet	Instantaneous	V, S, M
+- Thorn Whip	Transmutation	1 Action	30 feet	Instantaneous	V, S, M
 	- Place a spiked seed into vial and watch it grow instantaneously
-Thunderclap	Evocation	1 Action	Self (5-foot radius)	Instantaneous	S
+- Thunderclap	Evocation	1 Action	Self (5-foot radius)	Instantaneous	S
 
 ### 1st Level
 Absorb Elements	Abjuration	1 Reaction	Self	1 round	S
@@ -70,10 +70,12 @@ Identify	Divination	1 Minute R	Touch	Instantaneous	V, S, M
 Jump	Transmutation	1 Action	Touch	1 minute	V, S, M
 	- Small plates that extend from the creature's feet as they jump.
 Longstrider	Transmutation	1 Action	Touch	1 hour	V, S, M
-	- 
+	- A cream that allows for extra oxygen to be absorbed via their skin
 Sanctuary	Abjuration	1 Bonus Action	30 feet	1 minute	V, S, M
 Shield of Faith	Abjuration	1 Bonus Action	60 feet	Concentration, up to 1 minute	V, S, M
 Snare	Abjuration	1 Minute	Touch	Until dispelled or triggered	V, S, M
+
+### 2nd level
 Aid	Abjuration	1 Action	30 Feet	8 hours	V, S, M
 Alter Self	Transmutation	1 Action	Self	Concentration, up to 1 hour	V, S
 Arcane Lock	Abjuration	1 Action	Touch	Until dispelled	V, S, M
