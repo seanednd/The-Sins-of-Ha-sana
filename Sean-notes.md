@@ -1,9 +1,33 @@
+## session 13 _11/14_
+- One guard for every 10 demons
+- Glass balls with fire/wisps inside of them. A few dozen, gallon jar. A face with a blank expression
+	- Will of the wisps
+- Guards are aware of Hasa'na and talking about them
 
+### mini session Vram, Dammir, and Malve _11/13_
+- Notes from Robbie
+	we went back to liam's mansion
+	and we robbed his ass
+	didn't get caught this time
+	the gem we stole and were planning on selling
+	is a resurrection gem
+	we have no idea how it works
+	or what the resurrected person would be like after being brought back
+	or if it's consumed when it's used
+	but it can bring people back from the dead
+	also the lady in black was there, the one we iced first session
+	talking with liam jr
+	she's looking for the witch in the woods
+	Desibulex, Son of Udsiddiax interested in the witch of the woods
+	Cassernix, The Wooden One
 
-### mini session _11/11_
+### mini session Tradge and Nithaz _11/11_
 - Nithaz creates their homunculus servant, a mechanical owl with that uses the pistol found in the first session as it's heart.
 	- Attempting to command the owl left no responses, when touched by Tradge became hostile towards the both of us
 	- Fixed by turning a focus crystal rightsized up.
+- Things to ask Hydrox: What he knows about the rods that control the demons
+	- The command rods aren't uncommon, but are attune to demonic/fel energies
+	- Can hold the command as their leader for 8 hours
 
 ## session 12 _11/18_
 - Demon speaks infernal with Nithaz
