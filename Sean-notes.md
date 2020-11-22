@@ -1,3 +1,18 @@
+## session 14 __11/23_
+
+
+## Things to survive next session
+- If presented with people who don't know who i am, explain that i am a Guardian of the Good Peoples. I watch this encampment and very few people know i do in order to root out people stealing, demons running loose, making sure the operation is running smoothly. The reason why seung was able to escape was because i didn't interfere because letting her escape in order to track where she was going would prove to be more valuable.
+	- I'm going to need to act very pissed off and very in charged. Squash any attempt to question my rank.
+		- Is it too much to ask if you guys know what you're doing
+		- I think even you stupid as you are can manage that
+		- You're procrastinating, there's 10 other men here that would have done it by now
+		- How did you get this job?
+		- If you don't agree you don't have to work here, and I'll make sure you won't
+		- He's delusional, he's on the brink of death.
+- I Answer directly to Liam
+- Tell Hydrox if he wants to live he needs to act like he belongs to me. 
+
 ## session 13 _11/14_
 - One guard for every 10 demons
 - Glass balls with fire/wisps inside of them. A few dozen, gallon jar. A face with a blank expression
