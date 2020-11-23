@@ -1,9 +1,18 @@
 ## session 14 __11/23_
-
-
+- See the warlock that is harnessing the power of Beatrix
+- Beatrix surrounded by a ring salt
+- bomb with runic symbols
+	- 1 minute on timer
+- Beatrix takes the sword and it turns into a scythe.
+	- Commands the demons to kill their masters
+- Malve resurrected with the gem of resurrection 
+- Hydrox tells us that Liam knows that we did this
 ## Things to survive next session
+- Eplash, Guardian of the Good Peoples	
 - If presented with people who don't know who i am, explain that i am a Guardian of the Good Peoples. I watch this encampment and very few people know i do in order to root out people stealing, demons running loose, making sure the operation is running smoothly. The reason why seung was able to escape was because i didn't interfere because letting her escape in order to track where she was going would prove to be more valuable.
-	- I'm going to need to act very pissed off and very in charged. Squash any attempt to question my rank.
+	- Was posted here after your incompetence to stop Seung from escaping
+	- I'm going to need to act very pissed off and very in charged. Squash any attempt to question my rank.'
+		- If you knew i was here i wouldn't be doing a very good job.
 		- Is it too much to ask if you guys know what you're doing
 		- I think even you stupid as you are can manage that
 		- You're procrastinating, there's 10 other men here that would have done it by now

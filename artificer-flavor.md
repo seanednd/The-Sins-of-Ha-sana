@@ -33,7 +33,8 @@
 	- Electromagnetic gloves that can be dialed to different strengths
 - Thorn Whip		
 	- Place a spiked seed into vial and watch it grow instantaneously
-- Thunderclap		
+- Thunderclap
+	- A ring of a small tuning fork made of sapphire
 - Absorb Elements		
 	- A small reactive device that detects harmful incoming elemental damage and attempts to absorb it's energy to be used.
 - Alarm		
@@ -90,15 +91,19 @@
 - Heat Metal
 	- A superheated metal bolt of slag that can be fired from a crossbow
 - Invisibility
-	- mirror something
+	- Use a spray can of mercury looking substance
 - Lesser Restoration	
 	- 
 - Levitate
-- Magic Mouth	
+	- A potion to make the target grow wings, could be normal bird wings, could be like 50 small bat wings
+- Magic Mouth
+	- Apply a chapstick made of honeycomb and jade dust and kiss a surface to make a magic mouth
 - Magic Weapon		
-- Protection from Poison		
-- Pyrotechnics		
-- Rope Trick		
+- Protection from Poison	
+- Pyrotechnics
+	- 
+- Rope Trick
+	- Use a scalpal  to cut into the fabric of space that opens to a random point in the universe.
 - See Invisibility		
 - Skywrite		
 - Spider Climb		
@@ -122,7 +127,8 @@
 - Leomund's Secret Chest		
 - Mordenkainen's Faithful Hound		
 - Mordenkainen's Private Sanctum		
-- Otiluke's Resilient Sphere		
+- Otiluke's Resilient Sphere
+	- Blow from a bubble blower dipped in amber
 - Stone Shape		
 - Stoneskin
 ### 5th level
