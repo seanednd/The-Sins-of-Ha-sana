@@ -85,7 +85,7 @@
 - Darkvision		
 	- Use goggles with night vision mode
 - Enhance Ability		
-	- 
+	- a
 - Enlarge/Reduce
 	- Use a lenses that alters the size of an object depending on the viewer's perspective/lenses magnification.  
 - Heat Metal
@@ -93,7 +93,7 @@
 - Invisibility
 	- Use a spray can of mercury looking substance
 - Lesser Restoration	
-	- 
+	- a
 - Levitate
 	- A potion to make the target grow wings, could be normal bird wings, could be like 50 small bat wings
 - Magic Mouth
@@ -101,7 +101,7 @@
 - Magic Weapon		
 - Protection from Poison	
 - Pyrotechnics
-	- 
+	- Just fireworks
 - Rope Trick
 	- Use a scalpal  to cut into the fabric of space that opens to a random point in the universe.
 - See Invisibility		
