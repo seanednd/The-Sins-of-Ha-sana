@@ -28,8 +28,8 @@
 	- Eat a small mint and blow towards your target
 - Resistance		
 	- A small sensor that alerts it's user of danger with simple beeping/vibrating.
-- Shocking Grasp		
-- Spare the Dying	Necromancy	
+- Shocking Grasp &		
+- Spare the Dying	
 	- Electromagnetic gloves that can be dialed to different strengths
 - Thorn Whip		
 	- Place a spiked seed into vial and watch it grow instantaneously
@@ -39,9 +39,9 @@
 	- A small reactive device that detects harmful incoming elemental damage and attempts to absorb it's energy to be used.
 - Alarm		
 	- An eye in a round vial
-- Arcane Weapon (UA)		
+- Arcane Weapon (UA)
 	- Pull out the type of crystal you want and shatter it on your weapon to temporary imbue it.
-- Catapult		
+- Catapult
 	- Two vials of magnetic-like liquid, the first on the object to be thrown and the second on the target.
 -Cure Wounds		
 	- Stitching up wounds with a needle
@@ -50,7 +50,7 @@
 	- Goggles that let you see magic
 	- Mechanical dowsing rod device
 	- A small magical sensitive creature trapped in a jar that you give treats to.
-- Disguise Self	Illusion	
+- Disguise Self	
 	- A large party popper and points it at his own face. Upon pulling the string at the far end a blast of inky black smoke briefly engulfs his face. When it clears, the artificers appearance has been changed as desired.
 - Expeditious Retreat		
 	- Drink a small vial of extremely strong espresso 
@@ -77,7 +77,7 @@
 - Alter Self		
 	- An inhaler with different labels depending on which form I take.
 - Arcane Lock
-	- Paint that's been mixed with gold dust that you paint to symbol of a lock on
+	- Paint that's been mixed with gold dust that you paint the symbol of a lock on
 - Blur
 	- Activate a device that is constantly pulling you in and out of reality
 - Continual Flame
