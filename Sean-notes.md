@@ -1,5 +1,28 @@
 ## session 15 __12/6__
-- 
+- Vram, Dammir, Nithaz go back to the shop to tell everyone to leave.
+	- Try to take kiko with us
+	- Melina shows up asking questions about magic items, isn't convinced the store is really closed
+	- Dammir tries to act drunk when Melina becomes insistent on coming in and Melina recognizes him and attempts to take them in
+	- Vram, disguised as a higher member of the rook convinces Melina that he knows and will take Dammir in while convincing her that she's needed in the town.
+	- Dammir frees the spiders in the basement
+ 	- We buy a horse each
+- Ace joins the party
+- Witch of the woods talks to us through a raven and tells us that she cannot help us
+	- Forest changes
+	- Creatures of the forest appear to be completely disfigured but still alive
+	- Has skin of bark
+	- https://external-preview.redd.it/lqL0My1eQ2QHqF-KJrq9f-lgSTvDvs6ryq0q9n_1IzQ.png?auto=webp&s=a49242a11ca5a2a2d893af8d7f0b69ae9f0cc480
+	- "Bring me the brain of the priest of Skiallo"
+		- Has arcane knowledge on how to banish the demons
+		- Wears a mask made of metal
+		- nicknamed the soarer
+		- Church of neutral god of death
+
+- Convince the priest to purge one, got tricked into killing one
+	- Mess up my wand of wonder attempt
+- Yard hands are zombies and closing in on us
+- Weapon we find is meant for necromancy spells
+
 ## session 14 __11/23__
 - See the warlock that is harnessing the power of Beatrix
 - Beatrix surrounded by a ring salt
@@ -9,6 +32,8 @@
 	- Commands the demons to kill their masters
 - Malve resurrected with the gem of resurrection 
 - Hydrox tells us that Liam knows that we did this
+- Each Bag of holding has 25,000 gold in it
+- Cart has 25,000 gold in it as well 
 
 ## session 13 _11/14_
 - One guard for every 10 demons
