@@ -1,3 +1,8 @@
+## session 16 __12/20__
+- Attempted to buy Soarer's service, denied. They admit they're unable to do anything about the demons.
+- Decided to group with the Soarer against Cassernix
+- Cassernix has the ritual ready when we head back.
+- Cassernix is a mind flayer symbiote in a treant 
 ## session 15 __12/6__
 - Vram, Dammir, Nithaz go back to the shop to tell everyone to leave.
 	- Try to take kiko with us
@@ -5,7 +10,7 @@
 	- Dammir tries to act drunk when Melina becomes insistent on coming in and Melina recognizes him and attempts to take them in
 	- Vram, disguised as a higher member of the rook convinces Melina that he knows and will take Dammir in while convincing her that she's needed in the town.
 	- Dammir frees the spiders in the basement
- 	- We buy a horse each
+	- We buy a horse each
 - Ace joins the party
 - Witch of the woods talks to us through a raven and tells us that she cannot help us
 	- Forest changes
@@ -15,9 +20,8 @@
 	- "Bring me the brain of the priest of Skiallo"
 		- Has arcane knowledge on how to banish the demons
 		- Wears a mask made of metal
-		- nicknamed the soarer
+		- Nicknamed the soarer
 		- Church of neutral god of death
-
 - Convince the priest to purge one, got tricked into killing one
 	- Mess up my wand of wonder attempt
 - Yard hands are zombies and closing in on us
@@ -195,6 +199,7 @@
 - Dragon's name is Kiko, A topaz dragon with six legs and no wings
 - Kiko doesn't remember being in his construct
 - https://cdn.discordapp.com/attachments/731525935924248647/775174007657725962/unknown.png
+
 ---
 
 ## session 7 _9/27_
