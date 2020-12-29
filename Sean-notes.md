@@ -1,3 +1,35 @@
+## session 17 __12/27__
+- Defeat Cassernix, Trade tries to spare her to use her to send the demons back.
+- Cassernix feigns death but attacks Tradge and dies from Vram.
+- Ritual requires divine magic
+- Tradge hacks away to find Cassernix's house
+	- House filled with books  
+	- Big painted mural from the dawn of magic and humanoids and planes of existence, hero's of Manadae.
+		- Giant flaming wheel angel
+		- Incomprehensible technology
+	- Diagrams of brains from different animals, fauna, 
+- Go to Kelanvore, Show the Soarer the head of Cassernix
+	- Explain to the Soarer about the ritual and sigils.
+	- Agrees to come with us, but with zombies for backup.
+	- Turns out to be female.
+	- A grave domain cleric that helps people ease their way into death that uses necromancy for organ donation.
+- Kelanvore brave elven warrior from the first age of magic
+	- Fought to protect all of his people
+	- Before human gods, old gods, cruel and disconnection from the mortal plane.
+	- Became a warrior, god of death judged him cruelly and banished to the lower planes.
+	- Battled his way through the lower planes and killed the old God of death to judge all who die fairly
+- Soarer examines the ritual 
+	- Says humans and elves would have taken hundreds of years to figure out
+	- Explains that she can only send back 1 demon per day
+	- Unbinds Hydrox and Seung
+- Mika tells us Hasana is comming and will purge those who are evil, but sees everyone as evil.
+	- Unsure of why Hasana sees everyone as a sinner.
+- Current date Jan 17, end of downtime Jan 24
+- Use downtime to study the ritual and identify items
+- Soarer says that illithids are creatures of time and space and have no origin.
+- Rabbit speaks to us, tells us Liam is aware of our involvement in the mine.
+	- Was sent from Soldrembrod.
+	- Tells us that Liam has Mary and is forcing her to use divination to try to find us.
 ## session 16 __12/20__
 - Attempted to buy Soarer's service, denied. They admit they're unable to do anything about the demons.
 - Decided to group with the Soarer against Cassernix
@@ -26,6 +58,7 @@
 	- Mess up my wand of wonder attempt
 - Yard hands are zombies and closing in on us
 - Weapon we find is meant for necromancy spells
+- Soarer says that the forest is a god blind.
 
 ## session 14 __11/23__
 - See the warlock that is harnessing the power of Beatrix
