@@ -89,7 +89,7 @@
 - Enlarge/Reduce
 	- Use a lenses that alters the size of an object depending on the viewer's perspective/lenses magnification.  
 - Heat Metal
-	- A superheated metal bolt of slag that can be fired from a crossbow
+	- A superheated metal bolt of slag that wraps around objects that can be fired from a crossbow
 - Invisibility
 	- Use a spray can of mercury looking substance
 - Lesser Restoration	
@@ -105,10 +105,11 @@
 - Rope Trick
 	- Use a scalpal  to cut into the fabric of space that opens to a random point in the universe.
 - See Invisibility		
-- Skywrite		
-- Spider Climb		
+- Skywrite
+	- A firework mortar that launches whatever is written on it into the sky	
+- Spider Climb	
 - Blink		
-- Catnap	Enchantment	
+- Catnap Enchantment	
 - Flame Arrows		
 - Fly		
 - Gaseous Form		

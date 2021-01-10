@@ -1,9 +1,33 @@
+## session 19 __1/10__
+
+
+## session 18 __1/3__
+- Soarer mentions that there's something powerful in the seal in the basement of the house.
+	- Symbols relate to something interplaner, the plane of justice, symbol of mechanisms, symbol of the nine hells, symbol of travel repeated.
+- Town to the east, city of tin, made of metal inhabited by constructs, reclusive
+- Town of Gellen, 10 days north, no one has heard from this town in a long time. Said to be cursed.
+	- Powerful curses are usually hiding something powerful.
+- A lot of the people that were turned into demons were criminals, vagabonds
+	- some have awakened magic potential after the demons left
+- Plan for going to liam's with commoners
+	- Go to liam's crossing with everyone and the Soarer.
+	- Go during a religion gathering to try to reach as many people as possible.
+	- Use 
+- Melina finds our camp and tells us that she left the Rook
+	- Melina wants to join us because she believes we killed every demon.
+	- Says that many other don't agree with what the rook has done.
+	- Tells us that Liam has gone into hiding.
+	- Is wielding Ginici
+- Dammir died
+- The Soarer is a drow
+	- Tells us we have little over a week to get a precious gemstone
 ## session 17 __12/27__
+- Current date Jan 17, end of downtime Jan 24
 - Defeat Cassernix, Trade tries to spare her to use her to send the demons back.
 - Cassernix feigns death but attacks Tradge and dies from Vram.
 - Ritual requires divine magic
 - Tradge hacks away to find Cassernix's house
-	- House filled with books  
+	- House filled with books
 	- Big painted mural from the dawn of magic and humanoids and planes of existence, hero's of Manadae.
 		- Giant flaming wheel angel
 		- Incomprehensible technology
@@ -22,9 +46,8 @@
 	- Says humans and elves would have taken hundreds of years to figure out
 	- Explains that she can only send back 1 demon per day
 	- Unbinds Hydrox and Seung
-- Mika tells us Hasana is comming and will purge those who are evil, but sees everyone as evil.
+- Mika tells us Hasana is coming and will purge those who are evil, but sees everyone as evil.
 	- Unsure of why Hasana sees everyone as a sinner.
-- Current date Jan 17, end of downtime Jan 24
 - Use downtime to study the ritual and identify items
 - Soarer says that illithids are creatures of time and space and have no origin.
 - Rabbit speaks to us, tells us Liam is aware of our involvement in the mine.
