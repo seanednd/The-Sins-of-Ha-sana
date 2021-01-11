@@ -1,10 +1,32 @@
 ## session 19 __1/10__
-
-
+- Leave for Liam's crossing
+	- Bring Dammir's body with us
+- See a large man with a scar being threatened by bandits.
+	- Named Elderbrandt
+	- Is missing an eye, shot out with tonya's lightning gun.
+	- Wanted to kill Melina and group
+	- They killed her werebear friends. 
+- Nithaz gives all 12 villagers 100 gold each
+- People carrying out things from Meat Central.
+	- See Erin and Mary being forced to help
+- Head towards soldrembrod's house to find information on purchasing a diamond.
+	- Tells us that her friend recently bought one to revive his dead wife.
+	- Gives us direction to their house downtown
+	- 5 foot tall human
+	- Says he's good friends with the Briggins, Brienna.
+		- Is daughter of Carl Biggins
+		- Wife died by suicide
+		- Took his diamond
+- The Soarer revives Dammir, consuming the diamond.
+	- Dammir is brought to life.
+	- Has negative 4 on all of his stats.
+- Wait till late to go back to the base.
+	- Still a perimeter of soldiers around the base.
+	- Rook as made it inside of the temple
 ## session 18 __1/3__
 - Soarer mentions that there's something powerful in the seal in the basement of the house.
 	- Symbols relate to something interplaner, the plane of justice, symbol of mechanisms, symbol of the nine hells, symbol of travel repeated.
-- Town to the east, city of tin, made of metal inhabited by constructs, reclusive
+- Town to the east, city of tin, 4 days travel, made of metal inhabited by constructs, reclusive
 - Town of Gellen, 10 days north, no one has heard from this town in a long time. Said to be cursed.
 	- Powerful curses are usually hiding something powerful.
 - A lot of the people that were turned into demons were criminals, vagabonds
@@ -12,7 +34,6 @@
 - Plan for going to liam's with commoners
 	- Go to liam's crossing with everyone and the Soarer.
 	- Go during a religion gathering to try to reach as many people as possible.
-	- Use 
 - Melina finds our camp and tells us that she left the Rook
 	- Melina wants to join us because she believes we killed every demon.
 	- Says that many other don't agree with what the rook has done.
