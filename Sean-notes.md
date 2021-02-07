@@ -1,3 +1,23 @@
+## session 21 __1/31__
+
+- The diviner banished Tradge
+- Liam and carl sent dwarf and diviner
+	- says hassana is a false angel
+		- hasana's return would be blasphemous to the teachings of Tier
+		- forces leaving the rook acting strange and are acting as though they're blessed with divine enchantment 
+	- says there's a ismuth(?) in the vault
+		- A bridge between worlds/dimensions, known as a "vault" or "safe" 
+	- says there's more relics and vaults
+- About to ambushed by more members of the rook
+	- The sourer, ace, Mary, Erin ambush and kill them.
+- The soarer prays to the god of Loath(?) to ask where Tradge is
+	- Says Tradge isn't on the material plane.
+	- Says the vault has a portal to a place with weapons we
+- 
+## session 20 __1/24__
+-  One of the guard captains was a warforged
+
+
 ## session 19 __1/10__
 - Leave for Liam's crossing
 	- Bring Dammir's body with us

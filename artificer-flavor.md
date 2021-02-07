@@ -5,11 +5,12 @@
 - Acid Splash		
 	- Vial of acid that bubbles when uncorked
 - Create Bonfire		
-- Dancing Lights		
+- Dancing Lights
+	- Open a tin of glow worms, placing them into four paper lanterns that then float as you dictate.
 - Fire Bolt		
 	- A small metal container with a rope that shoots a firebolt when pulled
--Frostbite		
-	- 
+- Frostbite		
+	- A bottle filled with liquid nitrogen
 - Guidance		
 - Light		
 	- Crack a clear vial with moss inside of it to make it glow 
@@ -19,22 +20,22 @@
 	- Superheat the pebbles with blow torch
 - Mending		
 	- Bust out the ol' tools
-	- Message		
+- Message	
+	- Voice recorder built into a clockwork insect, it can enter the ethereal plane for short periods of time to evade detection and pass through objects	
 - Poison Spray		
 	- A gas grenade
 - Prestidigitation		
-	- Ugh
+	- Pull out a small candle that shimmers as you light it. You make a small wish as you blow it out, and the smoke puff forms into the effect of your choice.
 - Ray of Frost		
 	- Eat a small mint and blow towards your target
 - Resistance		
 	- A small sensor that alerts it's user of danger with simple beeping/vibrating.
-- Shocking Grasp &		
-- Spare the Dying	
+- Revivify, Spare the Dying & Shocking Grasp
 	- Electromagnetic gloves that can be dialed to different strengths
 - Thorn Whip		
 	- Place a spiked seed into vial and watch it grow instantaneously
 - Thunderclap
-	- A ring of a small tuning fork made of sapphire
+	- Tapping an creature/object with a small tuning fork made of sapphire
 - Absorb Elements		
 	- A small reactive device that detects harmful incoming elemental damage and attempts to absorb it's energy to be used.
 - Alarm		
@@ -60,15 +61,17 @@
 	- A big needle filled with a green liquid
 	- Convincing the character that they're tougher than they look
 - Grease		
-	- Just normal grease in a vial?
+	- Grease in a vial
 - Identify		
 	- Tools, magic jewel's monocle 
 - Jump		
 	- Small plates that extend from the creature's feet as they jump.
 - Longstrider		
 	- A cream that allows for extra oxygen to be absorbed via their skin
-- Sanctuary		
-- Shield of Faith		
+- Sanctuary
+	- A small flying robot that shines the light in eyes of whomever is attack it's assigned target. 
+- Shield of Faith
+	- A small metal shield unfolds from arm 	
 - Snare
 	- Cover a single piece of twine, string, or hair in slime to turn it into an invisible rope
 ### 2nd level
@@ -79,7 +82,7 @@
 - Arcane Lock
 	- Paint that's been mixed with gold dust that you paint the symbol of a lock on
 - Blur
-	- Activate a device that is constantly pulling you in and out of reality
+	- Activate a device that is constantly pulling you in and out of your current plane of existence
 - Continual Flame
 	- Mix oil with ruby dust on target	
 - Darkvision		
@@ -99,42 +102,64 @@
 - Magic Mouth
 	- Apply a chapstick made of honeycomb and jade dust and kiss a surface to make a magic mouth
 - Magic Weapon		
-- Protection from Poison	
+- Protection from Poison
+	- A pill that forces poisons out of your body
 - Pyrotechnics
 	- Just fireworks
 - Rope Trick
-	- Use a scalpal  to cut into the fabric of space that opens to a random point in the universe.
-- See Invisibility		
+	- Use a scalpel to cut an opening into the fabric of space that opens to a random point in the universe.
+- See Invisibility
+	- 
 - Skywrite
 	- A firework mortar that launches whatever is written on it into the sky	
-- Spider Climb	
-- Blink		
-- Catnap Enchantment	
-- Flame Arrows		
-- Fly		
-- Gaseous Form		
+- Spider Climb
+	-4 Mechanical or temporary arms attached to the back
+## 3rd level
+- web
+	- Mixing two vials together to create an explosive concoction that leaves a sticky mess
+- Blink
+	- Use a scalpel to cut a small slash in the fabric of space that shunts to the Ethereal Plane 
+- Catnap
+	- Hypnotizes your allies for a short but powerful rest
+- Flame Arrows
+- Dispel Magic
+- Elemental Weapon
+- Fly
+	- A backpack with unfurls a skeleton of propellers and rotors 	
+- Gaseous Form
+	- A potion that liquefies it's user and then quickly boils them into a gaseous form
 - Glyph of Warding
-- Haste		
+	- Use chalk made of incense infused with diamond to draw a glyph. The incense smells like ginger for explosive runes, and lavender for spell runes.
+- Haste
+	- A godawful strong licorice drink
 - Protection from Energy		
-- Revivify	Necromancy	
+- Revivify
+- Intellect Fortress
 - Tiny Servant		
-- Water Breathing		
+- Water Breathing
+	- Use a potion to grow gills		
 - Water Walk		
-- Arcane Eye		
-- Death Ward		
+	- Imbue rocks, stones, wood, any sturdy material nearby to fly to the position your foot is landing
+# 4th level
+- Arcane Eye
+	- A small mechanical eye with mechanical wings 	
 - Elemental Bane		
 - Fabricate	
 - Freedom of Movement		
 - Leomund's Secret Chest		
-- Mordenkainen's Faithful Hound		
+- Mordenkainen's Faithful Hound
+	- Blow a small silent whistle to summon
 - Mordenkainen's Private Sanctum		
 - Otiluke's Resilient Sphere
-	- Blow from a bubble blower dipped in amber
+	- Blow from a bubble wand dipped in amber
 - Stone Shape		
 - Stoneskin
+- Summon Construct
 ### 5th level
-- Animate Objects	
-- Bigby's Hand	
+- Animate Objects
+	- Throw googly eyes onto objects to give them life for a brief moment
+- Bigby's Hand
+	- A large mechanical hand
 - Creation	
 - Greater Restoration	
 - Skill Empowerment	
