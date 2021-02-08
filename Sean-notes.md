@@ -1,8 +1,40 @@
+## session 22 __2/7__
+- Jumped down hole
+	- Arrive standing after falling.
+- Giant mushroom in the way
+	- Bones in the mushrooms
+	- Mushroom tries to suck Nithaz in
+- Screaming sounds coming from below and above the canyon
+- Hear someone screaming in pain for help in undercommon/primordial
+- Tabxi woman wearing very little clothing being chased by a creature with long teeth and long arms with teeth on it's palms
+	- Named Feera
+	- A lion tabaxi, never seen before
+	- Tells us Tradge is deeper down
+	- Invites us to her home
+	- Tells us a lot of her people are sick
+	- Her people came here a very long time ago when dragons ravaged the earth.
+		- 10,000 - 20,000 years ago
+		- Dragons banished in year 0
+		- Nation previously known as Noran
+- A variant of a beholder creature talks to us in common after we kill the Desibulet
+	- Probably a spy
+- A giant temple in the middle of the city, surrounded by magic sheild
+	- The soarer tells us that it's the Ismuth
+	- Feera tells us that temple is why her people are the way her people are today
+- Large marketplace with a big bank
+- Feera takes us to the back of the bank and into the vault to meet the elder's
+	- Old men and women sitting around an even older table
+	- Meet Feera's grandfather the Elder Seer
+		- Tells us the great priest Marhn built the whole city single handedly
+			- Named after the god Marhn
+			- Worshiped a god named Airamae(?)
+		- Lived much longer than any other Lionen.
+		- Tells us Marhn has discovered something inside of the temple
+		- Tells us that creatures from all different dimensions are coming from the temple, a bridge between dimensions.
 ## session 21 __1/31__
-
 - The diviner banished Tradge
 - Liam and carl sent dwarf and diviner
-	- says hassana is a false angel
+	- says hasana is a false angel
 		- hasana's return would be blasphemous to the teachings of Tier
 		- forces leaving the rook acting strange and are acting as though they're blessed with divine enchantment 
 	- says there's a ismuth(?) in the vault
@@ -12,8 +44,7 @@
 	- The sourer, ace, Mary, Erin ambush and kill them.
 - The soarer prays to the god of Loath(?) to ask where Tradge is
 	- Says Tradge isn't on the material plane.
-	- Says the vault has a portal to a place with weapons we
-- 
+	- Says the vault has a portal to a place with weapons we 
 ## session 20 __1/24__
 -  One of the guard captains was a warforged
 
