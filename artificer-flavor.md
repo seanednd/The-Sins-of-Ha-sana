@@ -1,7 +1,6 @@
 ## Artificer Spell Flavor ideas
 
 
-
 ### Cantrips
  
 - Acid Splash		
