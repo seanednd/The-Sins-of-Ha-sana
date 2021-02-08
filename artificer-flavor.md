@@ -2,7 +2,8 @@
 
 
 
-### Cantrips 
+### Cantrips
+ 
 - Acid Splash		
 	- Vial of acid that bubbles when uncorked
 - Create Bonfire		
