@@ -1,9 +1,35 @@
+## session 23 __2/14__
+- Residence of the Marhn and priests of the city next to the Ismuth
+	- A tower
+	- 8 stories tall
+	- 60 X 60 feet at the base
+	- Clear out zombies around the tower
+	- Where they would study magical text and create new spells
+- Number of Lionen very low
+- Most of the city is abandoned and overrun by monsters
+- There's a decrease in the monsters coming out of the Ismuth and they appear to be going back into it.
+- Feera joins the party
+- Nithaz while downed sees Tradge in a vision about to behead him
+### Items Found in the tower:
+> 8 dragon slaying arrows
+> Spell scroll clone
+> Staff of Swarming Insects
+> Quaal’s Token Bird
+> Chime of opening (9 uses remain)
+> +1 trident, 
+> +1 net
+> 2x keoghtom’s ointment
+> Spell scroll see invisibility
+> Wand of magic missiles
+> Gloves of swimming and climbing
+> Tradge’s +1 plate armor
+- Tradge's armor that he took from Melora was found with the rest of the items, scorched by magical fire
 ## session 22 __2/7__
 - Jumped down hole
 	- Arrive standing after falling.
 - Giant mushroom in the way
 	- Bones in the mushrooms
-	- Mushroom tries to suck Nithaz in
+	- Mushroom tries to suck Nithaz into its self 
 - Screaming sounds coming from below and above the canyon
 - Hear someone screaming in pain for help in undercommon/primordial
 - Tabxi woman wearing very little clothing being chased by a creature with long teeth and long arms with teeth on it's palms
@@ -18,7 +44,7 @@
 		- Nation previously known as Noran
 - A variant of a beholder creature talks to us in common after we kill the Desibulet
 	- Probably a spy
-- A giant temple in the middle of the city, surrounded by magic sheild
+- A giant temple in the middle of the city, surrounded by magic shield
 	- The soarer tells us that it's the Ismuth
 	- Feera tells us that temple is why her people are the way her people are today
 - Large marketplace with a big bank
