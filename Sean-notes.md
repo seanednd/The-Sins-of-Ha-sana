@@ -1,3 +1,23 @@
+# session 24 __2/32__
+- The soarer contacts her god for guidance 
+- Discover a broken full length scrying mirror
+- Find a dead snake in a cage
+- Discover a hole in a barrel to a secret room under the tower.
+- Enter the inside of the temple of Marn
+	- Feera mentions that no one who enters this room has made it out alive
+	- The Soarer believes it's the Ismuth
+- The lady in black appears in the Ismuth chamber
+	- Eric might have doomed us all
+- Malve is disengaged and raised from the dead under control of Desibulex
+- Nithaz becomes dominated by Desibulex
+- Feera died
+- The rest of the party jump through the portal
+- They arrive at the top of a tower near Lavendaria City.
+	- Detective Hokido is there
+		- Is currently tacking a dragon named Cortu the Red, the alive version of the dragon we fought in the tower
+	- Tradge is also there, rugged and very aged with completely new gear, aged 20-30 years.
+	- They're told the current year is 1186, came from year 3008
+	- When Tradge arrived at this time he spent a year in a labyrinth.
 ## session 23 __2/14__
 - Residence of the Marhn and priests of the city next to the Ismuth
 	- A tower
@@ -23,6 +43,7 @@
 > Wand of magic missiles
 > Gloves of swimming and climbing
 > Tradge’s +1 plate armor
+> Mark of Marn
 - Tradge's armor that he took from Melora was found with the rest of the items, scorched by magical fire
 ## session 22 __2/7__
 - Jumped down hole
