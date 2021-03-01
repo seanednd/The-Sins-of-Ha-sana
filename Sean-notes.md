@@ -1,5 +1,20 @@
-# session 24 __2/32__
-- The soarer contacts her god for guidance 
+# session 25 __2/28__
+- The party jumps into the blackhole to return to the Ismuth
+	- The Ismuth is no longer glowing
+- The party meets Enoki and Riggos
+	- Enoki shares that Desibulex is a clone of Usidiex
+	- Desibulex, the dragon courtu, and beholder have attacked the city of Marhn
+- Scry on the Elder Seer
+	- The remaining Lionin are in the vault in the town.
+- Leaving the temple of Marhn from the front door, all of the zombies and creatures are dead with spores coming out
+- Party returns to the dungeon, no one around when we return
+	- Has been about 3 weeks since first entering
+- Ace and Erin meet the party, ecstatic to see Tradge and party back.
+- The forces allied with Hasana are retreating into the woods in the north
+	- Morgan was seen retreating as well 
+# session 24 __2/23__
+- The soarer contacts her god for guidance
+	- Told there is a way out on the bottom floor
 - Discover a broken full length scrying mirror
 - Find a dead snake in a cage
 - Discover a hole in a barrel to a secret room under the tower.
@@ -7,7 +22,7 @@
 	- Feera mentions that no one who enters this room has made it out alive
 	- The Soarer believes it's the Ismuth
 - The lady in black appears in the Ismuth chamber
-	- Eric might have doomed us all
+	- Melora might have doomed us all
 - Malve is disengaged and raised from the dead under control of Desibulex
 - Nithaz becomes dominated by Desibulex
 - Feera died
@@ -17,7 +32,7 @@
 		- Is currently tacking a dragon named Cortu the Red, the alive version of the dragon we fought in the tower
 	- Tradge is also there, rugged and very aged with completely new gear, aged 20-30 years.
 	- They're told the current year is 1186, came from year 3008
-	- When Tradge arrived at this time he spent a year in a labyrinth.
+	- When Tradge first arrived at this time he spent a year in a labyrinth.
 ## session 23 __2/14__
 - Residence of the Marhn and priests of the city next to the Ismuth
 	- A tower
@@ -63,7 +78,7 @@
 		- 10,000 - 20,000 years ago
 		- Dragons banished in year 0
 		- Nation previously known as Noran
-- A variant of a beholder creature talks to us in common after we kill the Desibulet
+- A variant of a beholder creature talks to us in common after we kill the Desibulex
 	- Probably a spy
 - A giant temple in the middle of the city, surrounded by magic shield
 	- The soarer tells us that it's the Ismuth
